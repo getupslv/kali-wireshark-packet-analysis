@@ -1,0 +1,4 @@
+10:14:02 - User connected to https://secure-bank.com (Encrypted)
+10:15:30 - User connected to http://unencrypted-login-page.com (Vulnerable!)
+10:16:12 - DNS Request for google.com resolved
+10:18:45 - User connected to http://legacy-internal-router.local (Vulnerable!)
